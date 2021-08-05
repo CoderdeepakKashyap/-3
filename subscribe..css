@@ -1,0 +1,11 @@
+html{
+   background-color:skyblue ;
+    margin: auto;
+    opacity: 5;
+    font-family: verdana;
+
+}
+#demo{
+    color:  red;
+    font-weight: bolder;
+}
